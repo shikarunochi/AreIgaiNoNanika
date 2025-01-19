@@ -1,0 +1,1 @@
+extern const unsigned char x509_crt_bundle[];

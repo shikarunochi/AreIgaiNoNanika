@@ -1,0 +1,15 @@
+#「#」から後はコメント扱いになります。
+https://news.yahoo.co.jp/rss/topics/top-picks.xml #Yahoo 主要
+https://www.watch.impress.co.jp/data/rss/1.0/ipw/feed.rdf #Impress Watch
+https://rss.itmedia.co.jp/rss/2.0/itmedia_all.xml #ITmedia 総合
+#https://pc.watch.impress.co.jp/data/rss/1.0/pcw/feed.rdf #PC Watch
+#https://news.yahoo.co.jp/rss/topics/domestic.xml #Yahoo 国内
+#https://news.yahoo.co.jp/rss/topics/world.xml    #Yahoo 国際
+#https://news.yahoo.co.jp/rss/topics/business.xml  #Yahoo 経済
+#https://news.yahoo.co.jp/rss/topics/entertainment.xml #Yahoo エンタメ
+#https://news.yahoo.co.jp/rss/topics/sports.xml #Yahoo スポーツ
+#https://news.yahoo.co.jp/rss/topics/it.xml #Yahoo IT
+#https://news.yahoo.co.jp/rss/topics/science.xml #Yahoo 科学
+#https://news.yahoo.co.jp/rss/topics/local.xml #Yahoo
+https://news.yahoo.co.jp/rss/categories/it.xml #Yahoo IT カテゴリ
+https://news.yahoo.co.jp/rss/categories/domestic.xml #国内 Yahooニュース
